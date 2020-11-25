@@ -6,7 +6,7 @@
 
 An S3 and GCS backed ContentsManager implementation for Jupyter.
 
-**Forked from [s3Contents](https://github.com/danielfrg/s3contents) repo to work with government security req's on east-1 region only.**
+*Credit*: **Forked from [s3Contents](https://github.com/danielfrg/s3contents) repo to work with government security req's on east-1 region only.**
 
 It aims to a be a transparent, drop-in replacement for Jupyter standard filesystem-backed storage system.
 With this implementation of a Jupyter Contents Manager you can save all your notebooks, regular files, directories
