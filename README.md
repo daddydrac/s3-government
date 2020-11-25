@@ -19,8 +19,12 @@ Write access (valid credentials) to an S3/GCS bucket, this could be on AWS/GCP o
 ## Installation
 
 ```
-$ pip install s3contents
+$ pip install git+https://github.com/joehoeller/s3-government#egg=s3contents-gov
 ```
+
+## How to use
+
+Follow the same API as in this README or in [s3Contents](https://github.com/danielfrg/s3contents)
 
 ## Jupyter config
 
