@@ -19,7 +19,7 @@ Write access (valid credentials) to an S3/GCS bucket, this could be on AWS/GCP o
 ## Installation
 
 ```
-$ pip install git+https://github.com/joehoeller/s3-government#egg=s3contents-gov
+$ pip install git+https://github.com/ /s3-government#egg=s3contents-gov
 ```
 
 ## How to use
